@@ -70,11 +70,11 @@ header .profile-image {
   width: 150px;
   height: 150px;
   border-radius: 50%;
-  border: 3px solid white;
+  border: 3px solid yellow;
   transition: all .5s;
 }
 header .profile-image:hover {
-  transform: scale(1.2) rotate(5deg);
+  transform: scale(1.5) rotate(7deg);
 }
 .tag {
   background-color: #efefef;
@@ -214,8 +214,8 @@ a.social:hover {
 .fb-btn {
   display:inline-block;
   background-color:#333;
-  color:orange;
+  color:yellow;
   padding:10px 20px;
   border-radius:3px;
-  outline:2px solid orange;
+  outline:2px solid yellow;
 }
